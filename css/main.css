@@ -1,0 +1,60 @@
+       
+.bg-1 {
+    background-color: #2a8db7; /* Blue */
+    color: #ffffff;
+}
+
+.bg-2 {
+    background-color: #474e5d; /* Dark Grey */
+    color: #ffffff;
+}
+
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+    align-items: left;
+}
+
+.container-fluid {
+      padding-top: 50px;
+      padding-bottom: 50px;
+}
+
+.navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+
+.full-image {
+    background: url('../pictures/Connected.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+    color: #ffffff;
+}
+
+.col-md-4
+{
+    margin-bottom:20px;
+}
+
+.each-item
+{
+    position:relative;
+    overflow:hidden;
+}
+
+.port-image
+{
+    width: 100%;
+}
